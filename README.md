@@ -1,2 +1,2 @@
-# Python_desde_0
+# Guia de estudio de Python
 Guía de estudio para principiantes en Python.
