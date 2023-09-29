@@ -1,0 +1,1 @@
+Crear un nuevo archivo Para crear un nuevo archivo en Python, use el método open(), con uno de los siguientes parámetros:Create - creará un archivo, devuelve un error si el archivo existeAgregar: creará un archivo si el archivo especificado no existeEscribir: creará un archivo si el archivo especificado no existe
